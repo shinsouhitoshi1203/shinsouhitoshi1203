@@ -5,9 +5,13 @@
 a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my website")
 
 **who am i: **
-✅ a big fan of cartoons :fa-heart: pokemon, hyouka, detective conan, tawog
-✅ a front-end developer :fa-globe: gonna learn some back-end languages
-✅ from nakhon phanom, thailand
+
+✅ a big fan of cartoons 💙 pokemon, hyouka, detective conan, tawog
+
+✅ a front-end developer 🌐 gonna learn some back-end languages
+
+✅ from nakhon phanom, thailand 🇹🇭
+
 ❎ date of birth: never
 
 **my current web project: ** myhero.academia fansite
