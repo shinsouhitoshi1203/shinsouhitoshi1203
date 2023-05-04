@@ -4,7 +4,7 @@
 
 a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my website")
 
-**who am i: **
+**who am i:**
 
 ✅ a big fan of cartoons 💙 pokemon, hyouka, detective conan, tawog
 
@@ -14,9 +14,9 @@ a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my websi
 
 ❎ date of birth: never
 
-**my current web project: ** myhero.academia fansite
+**my current web project:** myhero.academia fansite
 
-**contact me **
+**contact me**
 my website    [**www.narawat.tk**](https://www.narawat.tk "click to visit my website")
 
 my youtube  [sinnohsatoshi.1203](https://www.youtube.com/@sinnohsatoshi.1203 "sinnohsatoshi.1203")
