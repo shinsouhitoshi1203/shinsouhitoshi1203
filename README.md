@@ -1,5 +1,6 @@
 
-[![](https://gifdb.com/images/high/sad-anime-hyouka-houtarou-oreki-rhgamvxt06uc2reg.gif)](https://gifdb.com/images/high/sad-anime-hyouka-houtarou-oreki-rhgamvxt06uc2reg.gif)
+<img src="https://gifdb.com/images/high/sad-anime-hyouka-houtarou-oreki-rhgamvxt06uc2reg.gif" width="100%"></img>
+
 ## houtarouhyouka.1203 
 >  if i dont have to do it, i wont. if i have to do it, ill make it quick.
 
@@ -24,6 +25,3 @@ a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my websi
 ✅ my youtube  [**sinnohsatoshi.1203**](https://www.youtube.com/@sinnohsatoshi.1203 "sinnohsatoshi.1203")
 
 ✅ discord server [**houtarou.hyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
-
-
-
