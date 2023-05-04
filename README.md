@@ -18,11 +18,11 @@ a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my websi
 
 **contact me**
 
-my website    [**www.narawat.tk**](https://www.narawat.tk "click to visit my website")
+✅ my website    [**www.narawat.tk**](https://www.narawat.tk "click to visit my website")
 
-my youtube  [sinnohsatoshi.1203](https://www.youtube.com/@sinnohsatoshi.1203 "sinnohsatoshi.1203")
+✅my youtube  [sinnohsatoshi.1203](https://www.youtube.com/@sinnohsatoshi.1203 "sinnohsatoshi.1203")
 
-discord server [**houtarou.hyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
+✅ discord server [**houtarou.hyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
 
 
 
