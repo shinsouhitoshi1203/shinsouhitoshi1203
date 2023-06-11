@@ -16,7 +16,7 @@ a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my websi
 
 ❎ date of birth: never
 
-**my current web project:** [myhero.academia fansite] (https://github.com/houtarouhyouka1203/bnha.fansite "")
+**my current web project:** [myhero.academia fansite](https://github.com/houtarouhyouka1203/bnha.fansite "")
 
 **contact me**
 
