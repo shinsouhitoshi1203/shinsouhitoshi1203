@@ -1,27 +1,27 @@
 
+
+
 <img src="https://gifdb.com/images/high/sad-anime-hyouka-houtarou-oreki-rhgamvxt06uc2reg.gif" width="100%"></img>
 
 ## houtarouhyouka.1203 
 >  if i dont have to do it, i wont. if i have to do it, ill make it quick.
 
-a.k.a  [**@sinnohsatoshi.1203**](https://www.narawat.tk "click to visit my website")
 
 **who am i:**
 
-✅ a big fan of cartoons 💙 pokemon, hyouka, detective conan, tawog
+✅ frontend web developer
 
-✅ a front-end developer 🌐 gonna learn some back-end languages
+🧪 **my target** backend web developer
 
-✅ from nakhon phanom, thailand 🇹🇭
+**my portfolio**
+> [!NOTE]
+> github's markdown sucks, thats why i create my own 
 
-❎ date of birth: never
+click [**here**](https://zorogetlost.site "portfolio") to visit my website
 
-**my current web project:** [myhero.academia fansite](https://github.com/houtarouhyouka1203/bnha.fansite "")
 
-**contact me**
+**how to reach me**
 
-✅ my website    [**www.narawat.tk**](https://www.narawat.tk "click to visit my website")
+✅ my youtube  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "sinnohsatoshi.1203")
 
-✅ my youtube  [**sinnohsatoshi.1203**](https://www.youtube.com/@sinnohsatoshi.1203 "sinnohsatoshi.1203")
-
-✅ discord server [**houtarou.hyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
+✅ discord server [**houtarouhyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
