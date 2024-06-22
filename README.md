@@ -13,12 +13,18 @@
 
 🧪 **my target** backend web developer
 
+> [!NOTE]
+> Currently working on the following projects: 
+> 
+> [**Project 01 [No responsive]**](https://project01.zorogetlost.site/)
+> 
+> [**Project 02 [No responsive]**](https://project02.zorogetlost.site/)
+
 **my portfolio**
 > [!NOTE]
 > github's markdown sucks, thats why i create my own 
 
 click [**here**](https://zorogetlost.site "portfolio") to visit my website
-
 
 **how to reach me**
 
