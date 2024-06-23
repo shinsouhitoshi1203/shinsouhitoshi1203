@@ -15,10 +15,17 @@
 
 > [!NOTE]
 > Currently working on the following projects: 
-> 
-> [**Project 01 [No responsive]**](https://project01.zorogetlost.site/)
-> 
-> [**Project 02 [No responsive]**](https://project02.zorogetlost.site/)
+
+| Project name  | Website for project  |  Status |
+|---|---|---|
+|  project01 |  [**Project 01 [No responsive]**](https://project01.zorogetlost.site/) |  Closed |
+|  project02 | [**Project 02 [No responsive]**](https://project02.zorogetlost.site/)  | Fixing bugs |
+|  project03 | ～ coming soon ～  | Hasn't started yet  |
+
+Other projects made in other languages
+| Project name  | Website for project  |  Status |
+|---|---|---|
+|  rpn4.5 |  ～ in progress ～ |  Closed |
 
 **my portfolio**
 > [!NOTE]
