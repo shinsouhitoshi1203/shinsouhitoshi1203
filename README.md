@@ -20,7 +20,7 @@
 |---|---|---|
 |  project01 |  [**Project 01 [No responsive]**](https://zorogetlost.site/project01/) |  Closed |
 |  project02 | [**Project 02 [No responsive]**](https://project02.zorogetlost.site/)  | Fixing bugs |
-|  project03 | ～ coming soon ～  | Hasn't started yet  |
+|  project02-1 | [**Project 02.1 [No responsive]**](http://project02-1.zorogetlost.site/)  | In progress  |
 
 
 **my portfolio**
