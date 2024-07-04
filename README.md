@@ -20,8 +20,8 @@
 |---|---|---|
 |  project01 |  [**Project 01 [No responsive]**](https://zorogetlost.site/project01/) |  Closed |
 |  project02 | [**Project 02 [No responsive]**](https://project02.zorogetlost.site/)  | Closed |
-|  project02-1 | [**Project 02.1 [No responsive]**](https://project02-1.zorogetlost.site/)  | Closed |
-|  project03 | [**Project 03 [No responsive]**](http://project02-1.zorogetlost.site/)  | In progress |
+|  project02-1 | [**Project 02.1 [Fully responsive]**](https://project02-1.zorogetlost.site/)  | Closed |
+|  project03 | [**Project 03 [No responsive]**](http://project03.zorogetlost.site/)  | In progress |
 
 
 **my portfolio**
