@@ -17,7 +17,7 @@
 > Currently working on the following projects: 
 
 | Project name  | Website for project  |  Status |  Responsive |
-|---|---|---|
+|---|---|---|---|
 |  project01 |  [**Project 01**](https://zorogetlost.site/project01/) |  Closed | no |
 |  project02 | [**Project 02 **](https://project02.zorogetlost.site/)  | Closed | no |
 |  project02-1 | [**Project 02.1**](https://project02-1.zorogetlost.site/)  | Closed | yes |
