@@ -23,7 +23,7 @@
 |  project02-1 | [**Link**](https://project02-1.zorogetlost.site/)  | Closed | yes |
 |  project03 | [**Link**](http://project03.zorogetlost.site/)  | Closed | no |
 |  project04 | [**Link**](http://project04.zorogetlost.site/)  | Closed | no |
-|  project05 | [**Link**](http://project05.zorogetlost.site/)  | In progress | no |
+|  project05 | [**Link**](http://project05.zorogetlost.site/)  | Basically finished w/ no animation | no |
 
 
 **my portfolio**
