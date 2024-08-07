@@ -24,7 +24,7 @@
 |  project03 | [**Link**](http://project03.zorogetlost.site/)  | Closed | no |
 |  project04 | [**Link**](http://project04.zorogetlost.site/)  | Closed | no |
 |  project05 | [**Link**](http://project05.zorogetlost.site/)  | Closed | yes |
-|  project06 | [**Link**](http://project06.zorogetlost.site/)  | In progress | no |
+|  project06 | [**Link**](http://project06.zorogetlost.site/)  | Closed | yes |
 
 
 **my portfolio**
