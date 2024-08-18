@@ -1,40 +1,49 @@
 
+<img src="./tumblr_533b338313db0d78fadc8f23c4674c79_129ec39b_500.gif" width="100%"></img>
+どうも 、心操人使です
+
+# shinsouhitoshi1203
+greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field.
+
+## technologies
+|  type of technologies  |  languages  |
+| ------------ | ------------ |
+|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*a little*) |
+|  Backend languages |  1. PHP (*a little*) |
+|  CSS framework  |  1. Bootstrap (*a little*) |
+|  Javascript framework  |  1. Jquery (*middle*) |
+|  Databases |  1. MySQL (*a little*) |
+
+## projects
+
+#### a/ notable projects
+| Project name  | Website for project  |  Status |
+|---|---|---|
+|  table examples | [**Link**](https://table.zorogetlost.site/)  | Closed | 
+|  form websites | [**Link**](https://form.zorogetlost.site/)  | Closed |
+| arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | Closed | 
+|  celobank / e-banking | [**Link**](https://project05.zorogetlost.site/)  | Closed |
+------------
+#### b/ other projects
+
+| Project name  | Website for project  |  Status | 
+|---|---|---|
+|  project01 |  [**Link**](https://zorogetlost.site/project01/) |  Closed | 
+|  project02 | [**Link**](https://project02.zorogetlost.site/)  | Closed | 
+|  project02-1 | [**Link**](https://project02-1.zorogetlost.site/)  | Closed | 
+|  project03 | [**Link**](https://project03.zorogetlost.site/)  | Closed |
+|  project04 | [**Link**](https://project04.zorogetlost.site/)  | Closed |
 
 
-<img src="https://gifdb.com/images/high/sad-anime-hyouka-houtarou-oreki-rhgamvxt06uc2reg.gif" width="100%"></img>
-
-## houtarouhyouka.1203 
->  if i dont have to do it, i wont. if i have to do it, ill make it quick.
-
-
-**who am i:**
-
-✅ frontend web developer
-
-🧪 **my target** backend web developer
-
-> [!NOTE]
-> Currently working on the following projects: 
-
-| Project name  | Website for project  |  Status |  Responsive |
-|---|---|---|---|
-|  project01 |  [**Link**](https://zorogetlost.site/project01/) |  Closed | no |
-|  project02 | [**Link**](https://project02.zorogetlost.site/)  | Closed | no |
-|  project02-1 | [**Link**](https://project02-1.zorogetlost.site/)  | Closed | yes |
-|  project03 | [**Link**](http://project03.zorogetlost.site/)  | Closed | no |
-|  project04 | [**Link**](http://project04.zorogetlost.site/)  | Closed | no |
-|  project05 | [**Link**](http://project05.zorogetlost.site/)  | Closed | yes |
-|  project06 | [**Link**](http://project06.zorogetlost.site/)  | Closed | yes |
-
-
-**my portfolio**
-> [!NOTE]
-> github's markdown sucks, thats why i create my own 
+## portfolio
 
 click [**here**](https://zorogetlost.site "portfolio") to visit my website
 
-**how to reach me**
+## how to reach me
 
-✅ my youtube  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "sinnohsatoshi.1203")
+✅ my youtube  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "公式youtubeｃｈ")
 
-✅ discord server [**houtarouhyouka | community**](https://discord.gg/UV8hHS7Nd9 "click to visit my website")
+✅ outlook [**@houtarouhyouka.1203**](mailto:houtarouhyouka.1203@outlook.co.th "私のウェブサイト")
+
+✅ discord server [**heroaca.community**](https://discord.gg/UV8hHS7Nd9 "メール")
+
