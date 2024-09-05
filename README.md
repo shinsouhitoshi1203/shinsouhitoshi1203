@@ -19,6 +19,7 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 #### a/ notable projects
 | Project name  | Website for project  |  Status |
 |---|---|---|
+|  grocery | [**Link**](https://store.zorogetlost.site/)  | On working | 
 |  table examples | [**Link**](https://table.zorogetlost.site/)  | Closed | 
 |  form websites | [**Link**](https://form.zorogetlost.site/)  | Closed |
 | arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | Closed | 
@@ -28,6 +29,7 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 
 | Project name  | Website for project  |  Status | 
 |---|---|---|
+|  restapi-javascript |  [**Link**](https://restapi.zorogetlost.site/) |  Closed | 
 |  project01 |  [**Link**](https://zorogetlost.site/project01/) |  Closed | 
 |  project02 | [**Link**](https://project02.zorogetlost.site/)  | Closed | 
 |  project02-1 | [**Link**](https://project02-1.zorogetlost.site/)  | Closed | 
