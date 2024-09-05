@@ -45,7 +45,7 @@ click [**here**](https://zorogetlost.site "portfolio") to visit my website
 
 ✅ my youtube  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "公式youtubeｃｈ")
 
-✅ outlook [**@houtarouhyouka.1203**](mailto:houtarouhyouka.1203@outlook.co.th "私のウェブサイト")
+✅ outlook [**@houtarouhyouka.1203**](mailto:houtarouhyouka.1203@outlook.co.th "メール")
 
-✅ discord server [**heroaca.community**](https://discord.gg/UV8hHS7Nd9 "メール")
+✅ discord server [**heroaca.community**](https://discord.gg/UV8hHS7Nd9 "discord server real")
 
