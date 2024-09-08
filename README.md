@@ -29,6 +29,7 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 
 | Project name  | Website for project  |  Status | 
 |---|---|---|
+|  read-vietnamese-number |  [**Link**](https://playground.zorogetlost.site/) |  Closed |
 |  restapi-javascript |  [**Link**](https://restapi.zorogetlost.site/) |  Closed | 
 |  project01 |  [**Link**](https://zorogetlost.site/project01/) |  Closed | 
 |  project02 | [**Link**](https://project02.zorogetlost.site/)  | Closed | 
