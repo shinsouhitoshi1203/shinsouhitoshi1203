@@ -8,9 +8,9 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 ## technologies
 |  type of technologies  |  languages  |
 | ------------ | ------------ |
-|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*a little*) |
+|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*middle*) |
 |  Backend languages |  1. PHP (*a little*) |
-|  CSS framework  |  1. Bootstrap (*a little*) |
+|  CSS framework  |  1. Bootstrap (*a middle*) |
 |  Javascript framework  |  1. Jquery (*middle*) |
 |  Databases |  1. MySQL (*a little*) |
 
