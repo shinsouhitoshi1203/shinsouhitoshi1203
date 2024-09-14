@@ -14,6 +14,14 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 |  Javascript framework  |  1. Jquery (*middle*) |
 |  Databases |  1. MySQL (*a little*) |
 
+## docs for dev-learning
+
+| document name  | Website for project  |
+|---|---|
+|  (Javascript) ECMA Javascript 6  | [**Link**](https://github.com/shinsouhitoshi1203/js-project/tree/1dcab813185e2b364c3be87ed57b0dc6407d293a/ecma6)  |
+|  (SCSS) Grid system tutorial | [**Link**](https://github.com/shinsouhitoshi1203/sass-grid-system/blob/6eaf0246a57c0db78e25ffcc380a0c1c3140426f/readme.md)  |
+------------
+
 ## projects
 
 #### a/ notable projects
