@@ -2,8 +2,11 @@
 <img src="./tumblr_533b338313db0d78fadc8f23c4674c79_129ec39b_500.gif" width="100%"></img>
 どうも 、心操人使です
 
-# shinsouhitoshi1203
-greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field.
+# <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> 
+
+<p align="center"> greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
+_______
+
 
 ## technologies
 |  type of technologies  |  languages  |
