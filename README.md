@@ -27,7 +27,7 @@ greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i hav
 #### a/ notable projects
 | Project name  | Website for project  |  Status |
 |---|---|---|
-|  grocery | [**Link**](https://store.zorogetlost.site/)  | 90 / 100 progress | 
+|  grocery | [**Link**](https://store.zorogetlost.site/)  | 90% | 
 |  table examples | [**Link**](https://table.zorogetlost.site/)  | Closed | 
 |  form websites | [**Link**](https://form.zorogetlost.site/)  | Closed |
 | arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | Closed | 
