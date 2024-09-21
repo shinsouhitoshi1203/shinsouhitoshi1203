@@ -5,7 +5,9 @@
 # <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> 
 
 <p align="center"> greetings! this is **@shinsouhitoshi1203**, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
-_______
+
+
+<hr>
 
 
 ## technologies
