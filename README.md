@@ -16,16 +16,16 @@
 |  type of technologies  |  languages  |
 | ------------ | ------------ |
 |  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*middle*) |
-|  Backend languages |  1. PHP (*a little*) |
-|  CSS framework  |  1. Bootstrap (*a middle*) |
-|  Javascript framework  |  1. Jquery (*middle*) |
-|  Databases |  1. MySQL (*a little*) |
+|  Backend languages |  1. PHP (*basic*) |
+|  CSS framework  |  1. Bootstrap (*intermediate*) |
+|  Javascript framework  |  1. Jquery (*intermediate*) |
+|  Databases |  1. MySQL (*basic*) |
 
 ## docs for dev-learning
 
 | document name  | Website for project  |
 |---|---|
-|  (Javascript) ECMA Javascript 6  | [**Link**](https://github.com/shinsouhitoshi1203/js-project/tree/1dcab813185e2b364c3be87ed57b0dc6407d293a/ecma6)  |
+|  (Javascript) ECMA Javascript 6 [under construction] | [**Link**](https://github.com/shinsouhitoshi1203/js-project/tree/1dcab813185e2b364c3be87ed57b0dc6407d293a/ecma6)  |
 |  (SCSS) Grid system tutorial | [**Link**](https://github.com/shinsouhitoshi1203/sass-grid-system/blob/6eaf0246a57c0db78e25ffcc380a0c1c3140426f/readme.md)  |
 ------------
 
@@ -34,7 +34,7 @@
 #### a/ notable projects
 | Project name  | Website for project  |  Status |
 |---|---|---|
-|  grocery | [**Link**](https://store.zorogetlost.site/)  | 90% | 
+|  grocery | [**Link**](https://store.zorogetlost.site/)  | Closed | 
 |  table examples | [**Link**](https://table.zorogetlost.site/)  | Closed | 
 |  form websites | [**Link**](https://form.zorogetlost.site/)  | Closed |
 | arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | Closed | 
@@ -51,11 +51,6 @@
 |  project02-1 | [**Link**](https://project02-1.zorogetlost.site/)  | Closed | 
 |  project03 | [**Link**](https://project03.zorogetlost.site/)  | Closed |
 |  project04 | [**Link**](https://project04.zorogetlost.site/)  | Closed |
-
-
-## portfolio
-
-click [**here**](https://zorogetlost.site "portfolio") to visit my website
 
 ## how to reach me
 
