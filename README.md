@@ -15,7 +15,7 @@
 
 |  type of technologies  |  languages  |
 | ------------ | ------------ |
-|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*middle*) |
+|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*intermediate*) |
 |  Backend languages |  1. PHP (*basic*) |
 |  CSS framework  |  1. Bootstrap (*intermediate*) |
 |  Javascript framework  |  1. Jquery (*intermediate*) |
