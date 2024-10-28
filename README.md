@@ -54,9 +54,9 @@
 
 ## how to reach me
 
-✅ my youtube  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "公式youtubeｃｈ")
+✅ discord  [**shinsouhitoshi.heroaca**](https://discord.com/users/1049182897678065737 "discord server real")
 
-✅ outlook [**@houtarouhyouka.1203**](mailto:houtarouhyouka.1203@outlook.co.th "メール")
+✅ outlook [**@click here to send email**](mailto:houtarouhyouka.1203@outlook.co.th "メール")
 
-✅ discord server [**heroaca.community**](https://discord.gg/UV8hHS7Nd9 "discord server real")
+✅ my youtube channel (DEAD)  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "公式youtubeｃｈ")
 
