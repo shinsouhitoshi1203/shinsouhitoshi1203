@@ -14,9 +14,10 @@
 
 |  type of technologies  |  languages  |
 | ------------ | ------------ |
-|  Frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*intermediate*) |
-|  Backend languages |  1. PHP (*basic*) |
-|  Javascript library  |  1. Jquery (*intermediate*) |
+|  frontend languages  |  1. HTML <br> 2. CSS <br> 3. SCSS <br> 4. Javascript (*intermediate*) |
+|  backend languages |  1. PHP (*basic*) |
+|  javascript library  |  1. Jquery (*intermediate*) |
+|  other languages  |  1. C++ :skull: <br> ~~2. Visual Basic~~  |
 
 ------------
 
@@ -33,7 +34,7 @@
 
 | project name  | deployed website  |  status | 
 |---|---|---|
-|  read-vietnamese-number |  [**Link**](https://playground.zorogetlost.site/) |  Closed |
+|  read-vietnamese-number |  [**Link**](https://playground.zorogetlost.site/readnum) |  Closed |
 |  restapi-javascript |  [**Link**](https://restapi.zorogetlost.site/) |  Closed | 
 
 
