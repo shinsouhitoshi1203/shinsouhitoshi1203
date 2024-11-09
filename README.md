@@ -24,7 +24,7 @@
 ## what i have done
 
 #### a/ notable works
-| project name  | deployed website |  dtatus |
+| project name  | deployed website |  status |
 |---|---|---|
 |  grocery | [**Link**](https://store.zorogetlost.site/)  | closed | 
 | arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | closed | 
@@ -40,7 +40,7 @@
 
 wanna see other hidden repositories? sure, [click me](https://github.com/shinsouhitoshi1203?tab=repositories) 
 
-also, i used to have some other projects (it was made like 4 yrs ago and certainly the interface wasn't as good as now). unfortunately, i lost the source of the projects so i couldn't upload on github. therefore, ill upload the videos of projects
+also, i had some other projects (it was made like 4 yrs ago and certainly the interface wasn't as good as now). unfortunately, i lost the source of the projects so i couldn't upload on github. therefore, ill upload the videos of projects
 
 links are [**here**](//)
 
