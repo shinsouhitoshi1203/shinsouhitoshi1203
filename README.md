@@ -60,7 +60,7 @@ i used to have an old portfolio website - narawat.tk *(it was an old one, plus i
 
 if you wish to see the proof, i still have the [~~*wayback* website~~](https://web.archive.org/web/20230725115346/https://www.narawat.tk/en/welcome).
 
-~~here is [the copy of the site](https://zorogetlost.site) (w/ some modification)~~ (nothing)
+~~here is [the copy of the site](http://sinnohsatoshi.click) (w/ some modification)~~ (nothing)
 
 im too lazy to make a new portfolio, so i'll just leave it here.
 
