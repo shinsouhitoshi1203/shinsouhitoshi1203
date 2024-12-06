@@ -51,10 +51,29 @@
       </tr>
 </table>
 
+<br>
+<h3 align="center" size="30"><b >what i have done</b></div>
+<br><br>
 
+<table align="center">
+      <tr>
+            <td>
+   <div>               
+| project name  | deployed website |  status |
+|---|---|---|
+|  grocery | [**Link**](https://store.zorogetlost.site/)  | closed | 
+|  todo app | [**Link**](https://todos.zorogetlost.site/)  | closed | 
+| arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | closed | 
+|  celobank / e-banking | [**Link**](https://project05.zorogetlost.site/)  | closed |
+</div>
+            </td>
+            <td>
+                  Hello
+            </td>
+      </tr>
+</table>
+----------
 
-
-## what i have done
 
 #### a/ notable works
 | project name  | deployed website |  status |
