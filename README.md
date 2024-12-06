@@ -7,11 +7,9 @@
 <p align="center"> greetings! this is <b>@shinsouhitoshi1203</b>, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
 
 
-<hr>
 
-
-## technologies i use
-
+<h3 align="center" size="30"><b >technologies i use</b></div>
+<br><br>
 <table align="center">
       <tr>
           <td>
@@ -54,7 +52,7 @@
 </table>
 
 
-------------
+
 
 ## what i have done
 
@@ -65,7 +63,7 @@
 |  todo app | [**Link**](https://todos.zorogetlost.site/)  | closed | 
 | arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | closed | 
 |  celobank / e-banking | [**Link**](https://project05.zorogetlost.site/)  | closed |
-------------
+
 #### b/ other works
 
 | project name  | deployed website  |  status | 
@@ -80,6 +78,7 @@ also, i had some other projects (it was made like 4 yrs ago and certainly the in
 
 links are [**here**](//)
 
+<hr>
 ## getting in touch
 
 - i ONLY use **discord** for getting in touch people casually. for formal works, consider emailing me via the address below.
