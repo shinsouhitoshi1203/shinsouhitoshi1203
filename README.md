@@ -11,32 +11,47 @@
 
 
 ## technologies i use
-<div>
-  <h3>front-end libraries / frameworks</h3>
-  <img width="30" src="https://github.com/user-attachments/assets/cf4290f2-88a6-4e5f-85ad-d8c3e72e915a" title="javascript"/>
-  <span>&ensp;</span>
-  <img width="30" src="https://github.com/user-attachments/assets/4ee61439-596f-4ecc-bfe6-03908f5866bd" title="react (learning)"/>
-  <span>&ensp;</span>
-  <img width="30" src="https://github.com/user-attachments/assets/d52f4abb-e98a-421f-8a74-a61662744132" title="jquery (breh)"/>
-</div>
 
-<div>
-  <h3>style languages</h3>
-  <img width="30" src="https://github.com/user-attachments/assets/191f12ea-0331-4a3c-b8ee-0da42802e82d" title="scss"/>
-  <span>&ensp;</span>
-  <img width="30" src="https://github.com/user-attachments/assets/52360fb7-e199-4ee8-857b-bf666dbcba44" title="css"/>
-</div>
-
-<div>
-  <h3>back-end language</h3>
-  <img width="30" src="https://github.com/user-attachments/assets/da63edbb-b086-4d35-800f-4eb04a1132e5" title="php (basic)"/>
-</div>
-
-
-<div>
-  <h3>other languages</h3>
-  <img width="30" src="https://github.com/user-attachments/assets/06934120-85f0-4c70-88cd-2bbdf2b4a556" title="cee-plus-plus (bruh)"/>
-</div>
+<table align="center">
+      <tr>
+          <td>
+            <div>
+              <h6>front-end libraries / frameworks</h6>
+              <img width="30" src="https://github.com/user-attachments/assets/cf4290f2-88a6-4e5f-85ad-d8c3e72e915a" title="javascript"/>
+              <span>&ensp;</span>
+              <img width="30" src="https://github.com/user-attachments/assets/4ee61439-596f-4ecc-bfe6-03908f5866bd" title="react (learning)"/>
+              <span>&ensp;</span>
+              <img width="30" src="https://github.com/user-attachments/assets/d52f4abb-e98a-421f-8a74-a61662744132" title="jquery (breh)"/>
+              <br><br>
+            </div>
+          </td>
+          <td>
+            <div>
+              <h6>style languages</h6>
+              <img width="30" src="https://github.com/user-attachments/assets/191f12ea-0331-4a3c-b8ee-0da42802e82d" title="scss"/>
+              <span>&ensp;</span>
+              <img width="30" src="https://github.com/user-attachments/assets/1a060ff9-95c3-4daa-b4e3-05095c573ba6" title="css"/>
+              <br><br>
+            </div>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <div>
+              <h6>back-end language</h6>
+              <img width="30" src="https://github.com/user-attachments/assets/da63edbb-b086-4d35-800f-4eb04a1132e5" title="php (basic)"/>
+              <br><br>
+            </div>
+          </td>
+          <td>
+            <div>
+              <h6>other languages</h6>
+              <img width="30" src="https://github.com/user-attachments/assets/06934120-85f0-4c70-88cd-2bbdf2b4a556" title="cee-plus-plus (bruh)"/>
+              <br><br>
+            </div>
+          </td>
+      </tr>
+</table>
 
 
 ------------
