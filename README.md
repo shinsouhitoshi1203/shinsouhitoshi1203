@@ -1,5 +1,6 @@
 
-<img src="./tumblr_533b338313db0d78fadc8f23c4674c79_129ec39b_500.gif" width="100%"></img>
+![image](https://github.com/user-attachments/assets/a7f44aaa-e442-4a7b-8fc6-d062f49e6af8)
+
 <p align="center">どうも 、心操人使です</p>
 
 # <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> 
