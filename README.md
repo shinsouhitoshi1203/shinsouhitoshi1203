@@ -7,14 +7,13 @@
 <p align="center"> greetings! this is <b>@shinsouhitoshi1203</b>, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
 
 
-
-<h3 align="center" size="30"><b >technologies i use</b></div>
-<br><br>
+<br><h3 align="center" size="30"><b >technologies i use</b></h3>
 <table align="center">
       <tr>
           <td>
             <div>
-              <h6>front-end libraries / frameworks</h6>
+              <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;front-end libraries / frameworks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+              &nbsp;&nbsp;&nbsp;&nbsp;
               <img width="30" src="https://github.com/user-attachments/assets/cf4290f2-88a6-4e5f-85ad-d8c3e72e915a" title="javascript"/>
               <span>&ensp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/4ee61439-596f-4ecc-bfe6-03908f5866bd" title="react (learning)"/>
@@ -25,7 +24,8 @@
           </td>
           <td>
             <div>
-              <h6>style languages</h6>
+              <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+              &nbsp;&nbsp;&nbsp;&nbsp; 
               <img width="30" src="https://github.com/user-attachments/assets/191f12ea-0331-4a3c-b8ee-0da42802e82d" title="scss"/>
               <span>&ensp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/1a060ff9-95c3-4daa-b4e3-05095c573ba6" title="css"/>
@@ -36,49 +36,90 @@
       <tr>
           <td>
             <div>
-              <h6>back-end language</h6>
+              <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;back-end language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/da63edbb-b086-4d35-800f-4eb04a1132e5" title="php (basic)"/>
               <br><br>
             </div>
           </td>
           <td>
             <div>
-              <h6>other languages</h6>
+              <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;other languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/06934120-85f0-4c70-88cd-2bbdf2b4a556" title="cee-plus-plus (bruh)"/>
+              <span>&ensp;</span>
+              <img width="30" src="https://github.com/user-attachments/assets/2064eeeb-be07-4e6b-b16e-1128ca6199c4" title="visual basic shit"/>
               <br><br>
             </div>
           </td>
       </tr>
 </table>
 
+<br>
+<br>
 
+<br><h3 align="center" size="30"><b >what i have done</b></h3>
+<table class=work align=center>
+      <thead>
+            <tr>
+                  <th align=left>notable works</th>
+                  <th align=left>other works</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td class=notable>
+                        <table><tbody>
+                          <tr>
+                            <td>🏪 grocery store</td>
+                            <td><a href="https://store.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                          <tr>
+                            <td>✔️ todos list [pure js]</td>
+                            <td><a href="https://todos.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                          <tr>
+                            <td>🆒 arif. portfolio</td>
+                            <td><a href="https://project06.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                          <tr>
+                            <td>🏦 celobank portfolio</td>
+                            <td><a href="https://project05.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                        </tbody>
+                        </table>
+                  </td>
+                  <td class=other>
+                        <table><tbody>
+                          <tr>
+                            <td>🔢 read-vietnamese-number</td>
+                            <td><a href="https://playground.zorogetlost.site/readnum">🌐 Link</a></td>
+                          </tr>
+                          <tr>
+                            <td>📆 datepicker</td>
+                            <td><a href="https://datepicker.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>  
+                          <tr>
+                            <td>📝 forms collection </td>
+                            <td><a href="https://forms.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                           <tr>
+                            <td>🔐 restapi sample </td>
+                            <td><a href="https://restapi.zorogetlost.site/">🌐 Link</a></td>
+                          </tr>
+                        </tbody>
+                        </table>
+                  </td>
+            </tr>
+      </tbody>
+</table>
 
+<br><br>
+<p align=center>wanna see other hidden repositories? sure, <a href="https://github.com/shinsouhitoshi1203?tab=repositories">ｃｌｉｃｋ ｍ ｅ</a> </p>
+<br>
+<hr></hr>
+<br>
 
-## what i have done
-
-#### a/ notable works
-| project name  | deployed website |  status |
-|---|---|---|
-|  grocery | [**Link**](https://store.zorogetlost.site/)  | closed | 
-|  todo app | [**Link**](https://todos.zorogetlost.site/)  | closed | 
-| arif. portfolio | [**Link**](https://project06.zorogetlost.site/)  | closed | 
-|  celobank / e-banking | [**Link**](https://project05.zorogetlost.site/)  | closed |
-
-#### b/ other works
-
-| project name  | deployed website  |  status | 
-|---|---|---|
-|  read-vietnamese-number |  [**Link**](https://playground.zorogetlost.site/readnum) |  Closed |
-|  restapi-javascript |  [**Link**](https://restapi.zorogetlost.site/) |  Closed | 
-
-
-wanna see other hidden repositories? sure, [click me](https://github.com/shinsouhitoshi1203?tab=repositories) 
-
-also, i had some other projects (it was made like 4 yrs ago and certainly the interface wasn't as good as now). unfortunately, i lost the source of the projects so i couldn't upload on github. therefore, ill upload the videos of projects
-
-links are [**here**](//)
-
-<hr>
 ## getting in touch
 
 - i ONLY use **discord** for getting in touch people casually. for formal works, consider emailing me via the address below.
