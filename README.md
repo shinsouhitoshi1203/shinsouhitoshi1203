@@ -73,19 +73,19 @@
                         <table><tbody>
                           <tr>
                             <td>🏪 grocery store</td>
-                            <td><a href="https://store.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://store.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                           <tr>
                             <td>✔️ todos list [pure js]</td>
-                            <td><a href="https://todos.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://todos.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                           <tr>
                             <td>🆒 arif. portfolio</td>
-                            <td><a href="https://project06.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://project06.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                           <tr>
                             <td>🏦 celobank portfolio</td>
-                            <td><a href="https://project05.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://project05.zorogetlost.site/"> <img src="https://github.com/user-attachments/assets/e92c3ee9-7f4a-4066-943c-37e508eb9def"  height=30> </a></td>
                           </tr>
                         </tbody>
                         </table>
@@ -94,19 +94,19 @@
                         <table><tbody>
                           <tr>
                             <td>🔢 read-vietnamese-number</td>
-                            <td><a href="https://playground.zorogetlost.site/readnum">🌐 Link</a></td>
+                            <td><a href="https://playground.zorogetlost.site/readnum"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                           <tr>
                             <td>📆 datepicker</td>
-                            <td><a href="https://datepicker.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://datepicker.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>  
                           <tr>
                             <td>📝 forms collection </td>
-                            <td><a href="https://forms.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://forms.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                            <tr>
                             <td>🔐 restapi sample </td>
-                            <td><a href="https://restapi.zorogetlost.site/">🌐 Link</a></td>
+                            <td><a href="https://restapi.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
                           </tr>
                         </tbody>
                         </table>
@@ -116,10 +116,12 @@
 </table>
 
 <br><br>
-<p align=center>wanna see other hidden repositories? sure, <a href="https://github.com/shinsouhitoshi1203?tab=repositories">ｃｌｉｃｋ ｍ ｅ</a> </p>
+<h3 align=center>  wanna see other hidden repositories? sure,   <a href="https://github.com/shinsouhitoshi1203?tab=repositories">ｃｌｉｃｋ ｍ ｅ</a> </p>
 <br>
 <hr></hr>
 <br>
+
+
 
 ## getting in touch
 
