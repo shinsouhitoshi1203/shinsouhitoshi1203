@@ -94,8 +94,8 @@
                   <td class=other>
                         <table><tbody>
                           <tr>
-                            <td>🔢 read-vietnamese-number</td>
-                            <td><a href="https://playground.zorogetlost.site/readnum"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
+                            <td>❌ reset-react-vite </td>
+                            <td><a href="https://github.com/shinsouhitoshi1203/reset-react-vite"  height=30></a></td>
                           </tr>
                           <tr>
                             <td>📆 datepicker</td>
