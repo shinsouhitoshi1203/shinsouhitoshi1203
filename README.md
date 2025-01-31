@@ -58,7 +58,6 @@
 </table>
 
 <br>
-<br>
 
 <br><h3 align="center" size="30"><b >what i have done</b></h3>
 <table class=work align=center>
@@ -116,42 +115,14 @@
       </tbody>
 </table>
 
-<br><br>
-<h3 align=center>  wanna see other hidden repositories? sure,   <a href="https://github.com/shinsouhitoshi1203?tab=repositories">ｃｌｉｃｋ ｍ ｅ</a> </p>
-<br>
-<hr></hr>
-<br>
+<br><h3 align="center" size="30"><b >getting in touch</b></h3>
+
+<div align=center>
+      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/f135abdf-c6e1-4f72-9b3f-df904358f67f" height=75></a>&nbsp;
+      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/3f0a6e0f-aa85-4213-9c2b-d0940c236105"  height=75></a>
+</table>
 
 
-
-## getting in touch
-
-- i ONLY use **discord** for getting in touch people casually. for formal works, consider emailing me via the address below.
-
-✅ discord  [**shinsouhitoshi.heroaca**](https://discord.com/users/1049182897678065737 "")
-
-✅ outlook [**houtarouhyouka.1203@outlook.co.th**](mailto:houtarouhyouka.1203@outlook.co.th "メール")
-
-:exclamation: my youtube channel (DEAD)  [**sinnohsatoshi1203**](https://www.youtube.com/@sinnohsatoshi1203 "公式youtubeｃｈ")
-
-
-## my website portfolio
-i used to have an old portfolio website - narawat.tk *(it was an old one, plus it had been hosted before freenom ended its service :skull:, just to emphasize)*, written mostly in PHP.
-
-if you wish to see the proof, i still have the [~~*wayback* website~~](https://web.archive.org/web/20230725115346/https://www.narawat.tk/en/welcome).
-
-~~here is [the copy of the site](http://sinnohsatoshi.click) (w/ some modification)~~ (nothing)
-
-im too lazy to make a new portfolio, so i'll just leave it here.
-
-
-## docs for dev-learning
-mdn is still the best documentation website for web development, i have to admit. but the thing is, i don't like spending too much time comprehending technical terms. therefore, i decided to write the document in plain english *(sigh)* for my self-training. i'm glad if the docs help you in your training.
-| document name  | document link  |
-|---|---|
-|  (SCSS) Grid system tutorial | [**Link**](https://github.com/shinsouhitoshi1203/sass-grid-system/blob/6eaf0246a57c0db78e25ffcc380a0c1c3140426f/readme.md)  |
-|  (Javascript) ECMA Javascript 6 [under construction] | [**Link**](https://github.com/shinsouhitoshi1203/js-project/tree/1dcab813185e2b364c3be87ed57b0dc6407d293a/ecma6)  |
-|  (Javascript Library) Swiper | coming soon  |
 
 -------------------------
-date updated: 2024.11.06
+date updated: 2025.01.31
