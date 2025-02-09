@@ -9,7 +9,11 @@
 <p align="center"> greetings! this is <b>@shinsouhitoshi1203</b>, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
 
 
-<br><h3 align="center" size="30"><b >technologies i use</b></h3>
+
+<div align=center>
+      <img height="65" src="https://github.com/user-attachments/assets/b600bc6d-61ea-4e7a-838f-cb98ec5b7958" />
+</div>
+
 <table align="center">
       <tr>
           <td>
@@ -59,63 +63,21 @@
 
 <br>
 
-<br><h3 align="center" size="30"><b >what i have done</b></h3>
-<table class=work align=center>
-      <thead>
-            <tr>
-                  <th align=left>notable works</th>
-                  <th align=left>other works</th>
-            </tr>
-      </thead>
-      <tbody>
-            <tr>
-                  <td class=notable>
-                        <table><tbody>
-                          <tr>
-                            <td>🏪 grocery store</td>
-                            <td><a href="https://store.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                          <tr>
-                            <td>✔️ todos list [pure js]</td>
-                            <td><a href="https://todos.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                          <tr>
-                            <td>🆒 arif. portfolio</td>
-                            <td><a href="https://project06.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                          <tr>
-                            <td>🏦 celobank portfolio</td>
-                            <td><a href="https://project05.zorogetlost.site/"> <img src="https://github.com/user-attachments/assets/e92c3ee9-7f4a-4066-943c-37e508eb9def"  height=30> </a></td>
-                          </tr>
-                        </tbody>
-                        </table>
-                  </td>
-                  <td class=other>
-                        <table><tbody>
-                          <tr>
-                            <td>❌ reset-react-vite </td>
-                            <td><a href="https://github.com/shinsouhitoshi1203/reset-react-vite" height=30><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                          <tr>
-                            <td>📆 datepicker</td>
-                            <td><a href="https://datepicker.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>  
-                          <tr>
-                            <td>📝 forms collection </td>
-                            <td><a href="https://forms.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                           <tr>
-                            <td>🔐 restapi sample </td>
-                            <td><a href="https://restapi.zorogetlost.site/"><img src="https://github.com/user-attachments/assets/53137a40-5b4c-4cb8-ae0d-546a09aa1b98"  height=30></a></td>
-                          </tr>
-                        </tbody>
-                        </table>
-                  </td>
-            </tr>
-      </tbody>
-</table>
-
-<br><h3 align="center" size="30"><b >getting in touch</b></h3>
+<div align=center>
+      <img height="65" src="https://github.com/user-attachments/assets/bfe0a5b1-2e40-4ca2-b30a-5a0071633986" />
+</div>
+<div align=center>
+      <a href="https://gemini.zorogetlost.site/" title="gemini-clone"><img src="https://github.com/user-attachments/assets/1b641258-118d-4c85-afae-d36fc65096e5" height=125></a>
+      <a href="https://todos.zorogetlost.site/" title="todos-list"><img src="https://github.com/user-attachments/assets/06cf2507-4660-4d48-9974-1be5092ef33e"  height=125></a>
+</div>
+<div align=center>
+      <a href="https://project06.zorogetlost.site/" title="arif portfolio"><img src="https://github.com/user-attachments/assets/d14fc6de-97de-4b21-a4f5-c71992ac8480" height=124></a>
+      <a href="https://store.zorogetlost.site/" title="grocery store"><img src="https://github.com/user-attachments/assets/bc77eef6-c175-47cd-b08a-ffd6ad42478f"  height=124></a>
+</div>
+<br>
+<div align=center>
+      <img height="65" src="https://github.com/user-attachments/assets/40e09b6c-c786-4ac0-afee-12349e2dab95" />
+</div>
 
 <div align=center>
       <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/f135abdf-c6e1-4f72-9b3f-df904358f67f" height=75></a>&nbsp;
