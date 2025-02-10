@@ -80,8 +80,8 @@
 </div>
 
 <div align=center>
-      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/f135abdf-c6e1-4f72-9b3f-df904358f67f" height=75></a>&nbsp;
-      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/3f0a6e0f-aa85-4213-9c2b-d0940c236105"  height=75></a>
+      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/f135abdf-c6e1-4f72-9b3f-df904358f67f" height=85></a>&nbsp;
+      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/3f0a6e0f-aa85-4213-9c2b-d0940c236105"  height=85></a>
 </table>
 
 
