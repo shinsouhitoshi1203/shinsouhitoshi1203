@@ -32,6 +32,8 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp; 
+              <img width="30" src="https://github.com/user-attachments/assets/c8daecdf-0869-4c84-a093-63f8d71598c9" title="tailwindcss"/>
+              <span>&ensp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/191f12ea-0331-4a3c-b8ee-0da42802e82d" title="scss"/>
               <span>&ensp;</span>
               <img width="30" src="https://github.com/user-attachments/assets/1a060ff9-95c3-4daa-b4e3-05095c573ba6" title="css"/>
@@ -44,7 +46,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;back-end language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img width="30" src="https://github.com/user-attachments/assets/da63edbb-b086-4d35-800f-4eb04a1132e5" title="php (basic)"/>
+              <img width="30" src="https://github.com/user-attachments/assets/da63edbb-b086-4d35-800f-4eb04a1132e5" title="php"/>
               <br><br>
             </div>
           </td>
@@ -59,6 +61,7 @@
             </div>
           </td>
       </tr>
+      
 </table>
 
 <br>
