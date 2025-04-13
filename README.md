@@ -9,7 +9,7 @@
       <div align="center"> 
             <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/7c262f59-574e-4db8-b486-9684f1f04146" height=35></a>&nbsp;
             <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/39d77cb2-b613-4124-9e8c-cf40acc4d881"  height=35></a>&nbsp;
-            <a href="https://zorogetlost.site" title="my.portfolio(died)"><img src="https://github.com/user-attachments/assets/ef0023c6-04df-4f40-be1e-d52109c5199e"  height=35></a>&nbsp;
+            <a href="https://shinsouhitoshi1203.github.io/zorogetlost" title="my.portfolio"><img src="https://github.com/user-attachments/assets/ef0023c6-04df-4f40-be1e-d52109c5199e"  height=35></a>&nbsp;
       </div>
 </h1> 
 
