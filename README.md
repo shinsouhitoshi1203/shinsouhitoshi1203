@@ -75,11 +75,13 @@
 </div>
 <div align=center>
       <a href="https://gemini.zorogetlost.site/" title="gemini-clone"><img src="https://github.com/user-attachments/assets/1b641258-118d-4c85-afae-d36fc65096e5" height=125></a>
-      <a href="https://todos.zorogetlost.site/" title="todos-list"><img src="https://github.com/user-attachments/assets/06cf2507-4660-4d48-9974-1be5092ef33e"  height=125></a>
+      <a href="https://project06.zorogetlost.site/" title="arif portfolio"><img src="https://github.com/user-attachments/assets/d14fc6de-97de-4b21-a4f5-c71992ac8480" height=124></a>
+<!--       <a href="https://store.zorogetlost.site/" title="grocery store"><img src="https://github.com/user-attachments/assets/bc77eef6-c175-47cd-b08a-ffd6ad42478f"  height=124></a>
+      <a href="https://todos.zorogetlost.site/" title="todos-list"><img src="https://github.com/user-attachments/assets/06cf2507-4660-4d48-9974-1be5092ef33e"  height=125></a> -->
 </div>
 <div align=center>
-      <a href="https://project06.zorogetlost.site/" title="arif portfolio"><img src="https://github.com/user-attachments/assets/d14fc6de-97de-4b21-a4f5-c71992ac8480" height=124></a>
-      <a href="https://store.zorogetlost.site/" title="grocery store"><img src="https://github.com/user-attachments/assets/bc77eef6-c175-47cd-b08a-ffd6ad42478f"  height=124></a>
+      
+      
 </div>
 
 
