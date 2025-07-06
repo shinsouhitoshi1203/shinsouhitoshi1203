@@ -5,11 +5,11 @@
       <img src="https://github.com/user-attachments/assets/75c8e4cd-565f-479d-b914-2a8e2580d4e8" />
 </div>
 
-      
+
 <div align="center"> 
-      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/7c262f59-574e-4db8-b486-9684f1f04146" height=35></a>&nbsp;
-      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/39d77cb2-b613-4124-9e8c-cf40acc4d881"  height=35></a>&nbsp;
-      <a href="https://shinsouhitoshi1203.github.io/zorogetlost" title="my.portfolio"><img src="https://github.com/user-attachments/assets/ef0023c6-04df-4f40-be1e-d52109c5199e"  height=35></a>&nbsp;
+      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/bf974e6f-ac63-4022-871b-f4fce7315d1a" height=35></a>&nbsp;
+      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/3d9e2283-edc3-44d8-80c4-352091d84b9a"  height=35></a>&nbsp;
+      <a href="https://shinsouhitoshi1203.github.io/zorogetlost" title="my.portfolio"><img src="https://github.com/user-attachments/assets/cac7979e-cbc6-4723-aade-07124f7b9459"  height=35></a>&nbsp;
 </div>
 
 
@@ -30,7 +30,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;front-end libraries / frameworks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <img src="https://github.com/user-attachments/assets/54812538-b088-4403-af83-1074cdf068d4" height=30 title="reactjs"/>
+              <img src="https://github.com/user-attachments/assets/572a3d04-adb6-4f29-9c00-1f2dee8beed4" height=30 title="reactjs"/>
                   &nbsp;&nbsp; &nbsp;&nbsp; 
                   <br><br>
             </div>
@@ -39,9 +39,9 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;styling languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp; 
-              <img height="18px" src="https://github.com/user-attachments/assets/ec255695-67a1-4cb1-b282-e401fe6fc0d0" title="tailwindcss"/>
+              <img height="18px" src="https://github.com/user-attachments/assets/208e1254-b18e-4917-9420-d1a19e050a67" title="tailwindcss"/>
               <span>&ensp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/dbd7d909-36bf-4ccc-abcc-b3f214ee884d" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp; 
+              <img height="18px" src="https://github.com/user-attachments/assets/67101d79-4289-495c-8377-2d5ab46dc6b7" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp;
               <br><br>
             </div>
           </td>
@@ -51,7 +51,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/9399d71a-3f55-4358-abbf-8bed4cffdc18" title="firebase"/>
+              <img height="18px" src="https://github.com/user-attachments/assets/0f911748-8d91-4e9c-bc6c-c69151d8d993" title="firebase"/>
               <br><br>
             </div>
           </td>
@@ -59,13 +59,15 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ui kit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/0e7548af-d6cb-4bed-9e91-bd50bf01749d" title="material ui"/><span>&ensp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/0d10e3ae-b54a-423d-ace3-fc8a4b7ae585" title="motion.dev"/>&nbsp;&nbsp;&nbsp;&nbsp;
+              <img height="18px" src="https://github.com/user-attachments/assets/42cb2f15-7293-48e8-ba9e-3c06a89eb611" title="material ui"/>
+              <span>&ensp;</span>
+              <img height="18px" src="https://github.com/user-attachments/assets/be284790-b359-4162-a9d4-1b20d6bf9db8" title="motion.dev"/>&nbsp;&nbsp; &nbsp;&nbsp;
               <br><br>
             </div>
           </td>
       </tr>
-      
+     
+
 </table>
 
 <br>
