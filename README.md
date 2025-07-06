@@ -40,9 +40,9 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;styling languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp; 
-              <img height="20" src="https://github.com/user-attachments/assets/ec255695-67a1-4cb1-b282-e401fe6fc0d0" title="tailwindcss"/>
+              <img height="18px" src="https://github.com/user-attachments/assets/ec255695-67a1-4cb1-b282-e401fe6fc0d0" title="tailwindcss"/>
               <span>&ensp;</span>
-              <img height="20" src="https://github.com/user-attachments/assets/dbd7d909-36bf-4ccc-abcc-b3f214ee884d" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp; 
+              <img height="18px" src="https://github.com/user-attachments/assets/dbd7d909-36bf-4ccc-abcc-b3f214ee884d" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp; 
               <br><br>
             </div>
           </td>
@@ -52,7 +52,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="20" src="https://github.com/user-attachments/assets/9399d71a-3f55-4358-abbf-8bed4cffdc18" title="firebase"/>
+              <img height="18px" src="https://github.com/user-attachments/assets/9399d71a-3f55-4358-abbf-8bed4cffdc18" title="firebase"/>
               <br><br>
             </div>
           </td>
@@ -60,7 +60,8 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ui kit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="20" src="https://github.com/user-attachments/assets/0e7548af-d6cb-4bed-9e91-bd50bf01749d" title="material ui"/>
+              <img height="18px" src="https://github.com/user-attachments/assets/0e7548af-d6cb-4bed-9e91-bd50bf01749d" title="material ui"/><span>&ensp;</span>
+              <img height="18px" src="https://github.com/user-attachments/assets/0d10e3ae-b54a-423d-ace3-fc8a4b7ae585" title="motion.dev"/>&nbsp;&nbsp;&nbsp;&nbsp;
               <br><br>
             </div>
           </td>
