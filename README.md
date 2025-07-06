@@ -1,28 +1,27 @@
 ![shinsouhitoshi1203](https://github.com/user-attachments/assets/eae51f07-33e3-40a6-bae8-d31d556c1e52)
 
+<h1> <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> </h1> 
+<div align="center">
+      <img src="https://github.com/user-attachments/assets/75c8e4cd-565f-479d-b914-2a8e2580d4e8" />
+</div>
 
-
-<p align="center">どうも 、心操人使です</p>
-
-<h1>
-      <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> 
-      <div align="center"> 
-            <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/7c262f59-574e-4db8-b486-9684f1f04146" height=35></a>&nbsp;
-            <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/39d77cb2-b613-4124-9e8c-cf40acc4d881"  height=35></a>&nbsp;
-            <a href="https://shinsouhitoshi1203.github.io/zorogetlost" title="my.portfolio"><img src="https://github.com/user-attachments/assets/ef0023c6-04df-4f40-be1e-d52109c5199e"  height=35></a>&nbsp;
-      </div>
-</h1> 
-
-
-<p align="center"> greetings! this is <b>@shinsouhitoshi1203</b>, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
-
-
-<div align=center>
-      <img height="60" src="https://github.com/user-attachments/assets/b600bc6d-61ea-4e7a-838f-cb98ec5b7958" alt="Tech" />
+      
+<div align="center"> 
+      <a href="https://discord.com/users/1049182897678065737" title="discord@shinsouhitoshi.heroaca"><img src="https://github.com/user-attachments/assets/7c262f59-574e-4db8-b486-9684f1f04146" height=35></a>&nbsp;
+      <a href="mailto:houtarouhyouka.1203@outlook.co.th" title="houtarouhyouka.1203@outlook.co.th"><img src="https://github.com/user-attachments/assets/39d77cb2-b613-4124-9e8c-cf40acc4d881"  height=35></a>&nbsp;
+      <a href="https://shinsouhitoshi1203.github.io/zorogetlost" title="my.portfolio"><img src="https://github.com/user-attachments/assets/ef0023c6-04df-4f40-be1e-d52109c5199e"  height=35></a>&nbsp;
 </div>
 
 
+<br />
 
+<p align="center"> greetings! this is <b>@shinsouhitoshi1203</b>, a front-end website developer. i have been interested in website developments since 2019. seeing japanese's website makes me feel more energetic to do the same thing as they've done. this is how i've achieved in this field. </p>
+
+<br />
+<div align=center>
+      <img height="60" src="https://github.com/user-attachments/assets/6e8674af-60eb-4ff1-a23d-fc9c91a8570c" alt="Tech" />
+</div>
+<br />
 
 
 <table align="center">
