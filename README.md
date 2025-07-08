@@ -30,7 +30,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;front-end libraries / frameworks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <img src="https://github.com/user-attachments/assets/572a3d04-adb6-4f29-9c00-1f2dee8beed4" height=30 title="reactjs"/>
+              <img src="https://github.com/user-attachments/assets/572a3d04-adb6-4f29-9c00-1f2dee8beed4"  title="reactjs"/>
                   &nbsp;&nbsp; &nbsp;&nbsp; 
                   <br><br>
             </div>
@@ -39,9 +39,9 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;styling languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               &nbsp;&nbsp;&nbsp;&nbsp; 
-              <img height="18px" src="https://github.com/user-attachments/assets/208e1254-b18e-4917-9420-d1a19e050a67" title="tailwindcss"/>
+              <img  src="https://github.com/user-attachments/assets/208e1254-b18e-4917-9420-d1a19e050a67" title="tailwindcss"/>
               <span>&ensp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/67101d79-4289-495c-8377-2d5ab46dc6b7" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp;
+              <img  src="https://github.com/user-attachments/assets/67101d79-4289-495c-8377-2d5ab46dc6b7" title="scss"/>&nbsp;&nbsp; &nbsp;&nbsp;
               <br><br>
             </div>
           </td>
@@ -51,7 +51,7 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/0f911748-8d91-4e9c-bc6c-c69151d8d993" title="firebase"/>
+              <img  src="https://github.com/user-attachments/assets/0f911748-8d91-4e9c-bc6c-c69151d8d993" title="firebase"/>
               <br><br>
             </div>
           </td>
@@ -59,9 +59,9 @@
             <div>
               <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ui kit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/42cb2f15-7293-48e8-ba9e-3c06a89eb611" title="material ui"/>
+              <img  src="https://github.com/user-attachments/assets/42cb2f15-7293-48e8-ba9e-3c06a89eb611" title="material ui"/>
               <span>&ensp;</span>
-              <img height="18px" src="https://github.com/user-attachments/assets/be284790-b359-4162-a9d4-1b20d6bf9db8" title="motion.dev"/>&nbsp;&nbsp; &nbsp;&nbsp;
+              <img  src="https://github.com/user-attachments/assets/be284790-b359-4162-a9d4-1b20d6bf9db8" title="motion.dev"/>&nbsp;&nbsp; &nbsp;&nbsp;
               <br><br>
             </div>
           </td>
