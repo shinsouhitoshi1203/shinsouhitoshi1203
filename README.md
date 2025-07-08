@@ -19,7 +19,7 @@
 
 <br />
 <div align=center>
-      <img height="60" src="https://github.com/user-attachments/assets/6e8674af-60eb-4ff1-a23d-fc9c91a8570c" alt="Tech" />
+      <img src="https://github.com/user-attachments/assets/6e8674af-60eb-4ff1-a23d-fc9c91a8570c" alt="Tech" />
 </div>
 <br />
 
