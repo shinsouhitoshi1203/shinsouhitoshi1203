@@ -1,6 +1,6 @@
 ![shinsouhitoshi1203](https://github.com/user-attachments/assets/eae51f07-33e3-40a6-bae8-d31d556c1e52)
 
-<h1> <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ．１２０３</p> </h1> 
+<h1> <p align="center">ｓｈｉｎｓｏｕｈｉｔｏｓｈｉ１２０３</p> </h1> 
 <div align="center">
       <img src="https://github.com/user-attachments/assets/75c8e4cd-565f-479d-b914-2a8e2580d4e8" />
 </div>
